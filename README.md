@@ -4,6 +4,24 @@ Overview :-
 
 This project is an interactive Sales Dashboard designed to analyze business performance across multiple dimensions such as sales, profit, discounts, and geographic distribution. The dashboard provides actionable insights to support data-driven decision-making.
 
+
+. Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+   
+. How do sales trends vary over time (daily, monthly, quarterly, annually).
+
+. Show relationship between sales & profit.
+
+. Compare sales/profit/quantity sold between any two periods selected by the user.
+
+. Average discount offered in each discount category.
+
+. Total number of orders.
+
+. Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories).
+
+. Show sales by different cities.
+
+
 Key Objectives :-
 
 1)Track overall business performance.
